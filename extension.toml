@@ -1,0 +1,7 @@
+id = "alduin"
+name = "Alduin"
+description = "Alduin theme for Zed"
+version = "0.0.1"
+schema_version = 1
+authors = ["mtn (originally Alessandro Yorba)"]
+repository = "https://github.com/mtn/Alduin.zed"
