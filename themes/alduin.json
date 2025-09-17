@@ -49,6 +49,8 @@
 
         "error": "#af5f5f",
         "warning": "#dfaf87",
+        "warning.background": "#332f1a",
+        "warning.border": "#dfaf87",
         "info": "#87afaf",
         "success": "#87875f",
 
