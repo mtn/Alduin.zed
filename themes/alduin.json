@@ -47,6 +47,8 @@
         "editor.indent_guide_active": "#444444",
         "editor.invisible": "#303030",
 
+        "search.match_background": "#4a4020",
+
         "error": "#af5f5f",
         "warning": "#dfaf87",
         "warning.background": "#332f1a",
