@@ -49,6 +49,13 @@
 
         "search.match_background": "#4a4020",
 
+        "players": [
+          {
+            "selection": "#af5f5f",
+            "background": "#af5f5f40"
+          }
+        ],
+
         "error": "#af5f5f",
         "warning": "#dfaf87",
         "warning.background": "#332f1a",
