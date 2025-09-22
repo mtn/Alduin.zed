@@ -51,8 +51,7 @@
 
         "players": [
           {
-            "selection": "#af5f5f",
-            "background": "#af5f5f40"
+            "selection": "#af875f80"
           }
         ],
 
